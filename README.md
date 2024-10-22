@@ -57,3 +57,9 @@ Here is the format of the config .json file that's required:
     ]
 }
 ```
+```
+Files go in:
+- data/accessory/acessoryParam/acessoryParam.bin.xfbin
+- data/rpg/param/accessoriesParam.bin.xfbin
+- data/message/WIN64/eng/messageInfo.bin.xfbin
+```
